@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T20:44:58.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="STTD0jXJenmB4s92BXOG" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-02T20:45:04.531Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="X8O7l_XeDAh0M9CxOOH6" version="14.4.3" type="github">
   <diagram id="9FqMXtGA5RoeKkH9ATQY" name="Page-1">
     <mxGraphModel dx="700" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,9 +73,6 @@
         </mxCell>
         <mxCell id="Qv9jov8lAXomcC5YWwtH-18" value="&lt;span style=&quot;box-sizing: inherit ; text-overflow: ellipsis ; overflow: hidden ; color: rgb(6 , 23 , 42) ; font-family: &amp;#34;source sans pro&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12.6px ; background-color: rgb(220 , 228 , 237)&quot;&gt;Giuliana Belen Perez Jimenez&amp;nbsp;&lt;br&gt;&lt;span style=&quot;box-sizing: inherit ; text-overflow: ellipsis ; overflow: hidden ; font-family: &amp;#34;source sans pro&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12.6px&quot;&gt;Alan Tenorio Calero&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;source sans pro&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12.6px&quot;&gt;Franco Blacutt Pierola&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;source sans pro&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 12.6px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="90" width="190" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Qv9jov8lAXomcC5YWwtH-19" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="320" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Qv9jov8lAXomcC5YWwtH-20" value="Diseñar un diagrama de flujo que imprima la siguiente serie&amp;nbsp;&lt;br&gt;1, 2, 3, ... 99, 100" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="10" width="640" height="20" as="geometry" />
